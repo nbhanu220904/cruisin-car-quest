@@ -365,7 +365,7 @@ export const mockCars: Car[] = [
     transmission: "Automatic",
     seats: 5,
     image:
-      "https://images.unsplash.com/photo-1570213489059-0aac6626cade?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9yZCUyMGYlMjAxNTB8ZW58MHx8MHx8fDA%3D",
+      "https://d2v1gjawtegg5z.cloudfront.net/posts/preview_images/000/015/499/original/2024_Ford_F-150.jpg?1725030127",
     engine: "5.0L V8",
     color: "Black",
   },
