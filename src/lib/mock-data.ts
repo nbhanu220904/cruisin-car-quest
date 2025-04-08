@@ -80,7 +80,7 @@ export const mockCars: Car[] = [
     transmission: "Automatic",
     seats: 5,
     image:
-      "https://images.unsplash.com/photo-1556800572-1b8aeaee049d?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Ym13JTIwM3xlbnwwfHwwfHx8MA%3D%3D",
+      "https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/3-Series/10574/1689667781970/front-left-side-47.jpg",
     engine: "2.0L",
     color: "Black",
   },
@@ -215,7 +215,7 @@ export const mockCars: Car[] = [
     transmission: "Automatic",
     seats: 7,
     image:
-      "https://images.unsplash.com/photo-1625229335420-2c96bcc0ea53?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGZvcmQlMjBleHBsb3JlcnxlbnwwfHwwfHx8MA%3D%3D",
+      "https://build.ford.com/dig/Ford/Explorer/2025/HD-FULL%5BEXTBCK1%5D/Image%5B%7CFord%7CExplorer%7C2025%7C1%7C1.%7C300A...PUM..88E.89W.64W.%5D/EXT/4/vehicle.png",
     engine: "3.0L",
     color: "Blue",
   },
@@ -230,7 +230,7 @@ export const mockCars: Car[] = [
     transmission: "Automatic",
     seats: 5,
     image:
-      "https://images.unsplash.com/photo-1549925862-990918686bcd?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJtdyUyMHg1fGVufDB8fDB8fHww",
+      "https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/X5-2023/10452/1688992642182/front-left-side-47.jpg",
     engine: "3.0L",
     color: "Black",
   },
@@ -245,7 +245,7 @@ export const mockCars: Car[] = [
     transmission: "Automatic",
     seats: 5,
     image:
-      "https://images.unsplash.com/photo-1680089363248-2cb1e47a7c20?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fG1lcmNlZGVzJTIwZ2xjfGVufDB8fDB8fHww",
+      "https://img.autocarindia.com/ExtraImages/20230315031756_mercedes_glc_coupe.jpg",
     engine: "2.0L",
     color: "Silver",
   },
@@ -275,7 +275,7 @@ export const mockCars: Car[] = [
     transmission: "Automatic",
     seats: 5,
     image:
-      "https://images.unsplash.com/photo-1606664669503-0da1a5c9e640?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGF1ZGklMjBxNXxlbnwwfHwwfHx8MA%3D%3D",
+      "https://www.motorbeam.com/wp-content/uploads/2025-Audi-Q5-1200x725.jpg",
     engine: "2.0L",
     color: "Gray",
   },
@@ -320,7 +320,7 @@ export const mockCars: Car[] = [
     transmission: "Automatic",
     seats: 7,
     image:
-      "https://images.unsplash.com/photo-1666710200973-18e616570a27?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGtpYSUyMHNvcmVudG98ZW58MHx8MHx8fDA%3D",
+      "https://upload.wikimedia.org/wikipedia/commons/9/93/Kia_Sorento_Hybrid_EX_%28IV%29_%E2%80%93_f_02112024.jpg",
     engine: "2.2L",
     color: "Blue",
   },
@@ -335,7 +335,7 @@ export const mockCars: Car[] = [
     transmission: "Automatic",
     seats: 8,
     image:
-      "https://images.unsplash.com/photo-1677658610900-75ce56fda4e8?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dG95b3RhJTIwaGlnaGxhbmRlcnxlbnwwfHwwfHx8MA%3D%3D",
+      "https://media.ed.edmunds-media.com/toyota/highlander-hybrid/2025/oem/2025_toyota_highlander-hybrid_4dr-suv_limited-25th-edition_fq_oem_1_1600.jpg",
     engine: "3.5L",
     color: "Silver",
   },
